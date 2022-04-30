@@ -3950,3 +3950,9 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+video {
+	width: 80vw;
+	height: 80vh;
+	left: auto;
+}

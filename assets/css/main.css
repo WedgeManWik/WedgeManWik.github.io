@@ -3966,5 +3966,5 @@ video {
 .fit2{
 	max-width: 100vw;
 	max-height: auto;
-	align: right;
+	border-right: screen.width;
 }

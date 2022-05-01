@@ -2163,9 +2163,11 @@ input, select, textarea {
 	.image {
 		border: 0;
 		align-items: right;
+		horizontal-align: right;
 		float: right;
 		display: inline-block;
 		position: right;
+		width: 100%;
 	}
 
 		.image img {

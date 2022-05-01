@@ -3959,5 +3959,6 @@ video {
 
 .fit {
   max-width: 100vw;
-  max-height: 99%;
+	max-height: auto;
+	left: auto;
 }

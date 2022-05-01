@@ -3962,3 +3962,9 @@ video {
 	max-height: auto;
 	left: auto;
 }
+
+.fit2{
+	max-width: 100vw;
+	max-height: auto;
+	align: right;
+}

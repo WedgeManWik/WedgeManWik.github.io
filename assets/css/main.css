@@ -3956,3 +3956,8 @@ video {
 	height: 80vh;
 	left: auto;
 }
+
+.fit {
+  max-width: 100vw;
+  max-height: 99%;
+}

@@ -16,6 +16,7 @@ There are three levels in each game, with each level having three waves of enemi
 
 In each game, the players start off with three lives, once a life is lost, there is no way to earn it back. The coin positions are completely randomised, but there are always exactly 20 coins on each level. To move onto the next level, the player must kill all enemies on the map. When collecting a coin, the player will receive 100 points.
 
+#### Enemy types
 
 There are two enemy types: Koopas and Goombas. 
 On the first wave of a level, four Koopas will spawn. On the next levels, two Koopas and two Goombas will spawn. The only way to remove the enemies is to kill them, if a player doesn’t kill them, they’ll stay for ever!

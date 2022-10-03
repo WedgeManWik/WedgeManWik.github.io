@@ -3976,21 +3976,10 @@ video {
 	border-right: screen.width;
 }
 
+.fit3{
+	position: center;
+}
+
 img{
 	float:right;
-}
-
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
-
-.download-brn{
-	background-color: DodgerBlue;
-	color: white;
-	padding: 1rem 2rem;
-	font-size: 2rem;
-	text-decoration: none;
-	border-radius: 5px;
 }

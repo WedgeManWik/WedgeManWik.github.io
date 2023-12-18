@@ -3995,6 +3995,7 @@ video {
 
 .fit3{
 	position: center;
+	min-height: 10vh
 }
 
 img{
